@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.AssemblyInfo.cs
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\bin\Debug\net7.0\Seminar1Task_00.exe
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\bin\Debug\net7.0\Seminar1Task_00.deps.json
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\bin\Debug\net7.0\Seminar1Task_00.runtimeconfig.json
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\bin\Debug\net7.0\Seminar1Task_00.dll
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\bin\Debug\net7.0\Seminar1Task_00.pdb
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.dll
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\refint\Seminar1Task_00.dll
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.pdb
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\Seminar1Task_00.genruntimeconfig.cache
+C:\Users\User\Desktop\4255_знакомство с яз.прогр\-.4255\Seminar1Task_00\obj\Debug\net7.0\ref\Seminar1Task_00.dll
