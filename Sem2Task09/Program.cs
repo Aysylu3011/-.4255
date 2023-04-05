@@ -16,10 +16,10 @@ else
 
 char[] digits = numSintezator.Next(10, 100).ToString().ToCharArray();
 Console.WriteLine(digits);
-firstNum = (int)(digits[0])-48;
-secondNum = (int)(digits[1])-48;
+int firstNum1 = (int)(digits[0])-48;
+int secondNum2 = (int)(digits[1])-48;
 // тернарный оператор
-int res = (firstNum>secondNum)?firstNum:secondNum;
+int res = (firstNum1>secondNum2)?firstNum1:secondNum2;
 Console.WriteLine(res);
 
 // табличные решения
